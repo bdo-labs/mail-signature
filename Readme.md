@@ -18,7 +18,7 @@ License
 -------
 
 The MIT license
-Copyright (C) 2014 BDO AS &gt;labs@bdo.no&lt;
+Copyright (C) 2014 BDO AS &lt;labs@bdo.no&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the "Software"),
